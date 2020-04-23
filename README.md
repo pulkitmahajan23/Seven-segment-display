@@ -1,5 +1,6 @@
 # Seven-segment-display
 How to use a seven segment display with arduino without using library
+
 **The digit is shown when it is pulled low**
 
 The code shows how to use a digit seven segment display without using the SevSeg library.
